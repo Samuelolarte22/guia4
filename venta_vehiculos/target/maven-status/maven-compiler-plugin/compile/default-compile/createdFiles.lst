@@ -1,4 +1,4 @@
+com\mycompany\venta_vehiculos\VentaVehiculosGUI.class
 com\mycompany\venta_vehiculos\VehiculoDAO.class
-com\mycompany\venta_vehiculos\Venta_vehiculos.class
 com\mycompany\venta_vehiculos\ConexionBD.class
 com\mycompany\venta_vehiculos\Vehiculo.class
