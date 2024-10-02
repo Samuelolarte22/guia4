@@ -13,9 +13,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConexionBD {
-    private static final String URL = "jdbc:mysql://localhost:3306/ventas_vehiculos"; // Cambia esto
+    private static final String URL = "jdbc:mysql://127.0.0.1:3306/ventas_vehiculos"; // Cambia esto
     private static final String USER = "root"; // Cambia esto
-    private static final String PASSWORD = "1234"; // Cambia esto
+    private static final String PASSWORD = "KuRoInEkO0605"; // Cambia esto
 
     public static Connection conectar() {
         Connection conexion = null;
